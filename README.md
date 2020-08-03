@@ -1,1 +1,1 @@
-### This is a school subject about bootstrap grid system
+## This is a school subject about bootstrap grid system
