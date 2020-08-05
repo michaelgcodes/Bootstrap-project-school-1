@@ -19,6 +19,15 @@ body{
     position: relative;
 }
 
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
 .quotes-container{}
 
 .features-container{}
@@ -33,6 +42,10 @@ body{
 
 .block-divider--orange {
     background-color: #f05f40;
+}
+
+.block-divider--short {
+    width: 35px;
 }
 
 .jumbotron {
