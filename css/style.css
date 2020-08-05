@@ -22,3 +22,14 @@ body{
 .quotes-container{}
 
 .features-container{}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron-header{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: white;
+}
